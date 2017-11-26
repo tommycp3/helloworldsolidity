@@ -13,6 +13,8 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+
+{/* next step is to work out how to connect this button and pass in a string and deploy with metamask. */}
         <button>Set Word</button>
       </div>
     );
